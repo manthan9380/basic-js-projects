@@ -42,18 +42,6 @@ This repository contains a collection of basic **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📁 Folder Structure
-projects/
-│
-├── To Do List/
-├── Quiz App/
-├── Expense Tracker/
-├── API Based - Weather Project/
-└── Building Ecommerce Cart Page/
-
-
----
-
 ## 🙌 Acknowledgements
 
 This repository is part of my self-learning journey. Many ideas are inspired by YouTube tutorials and online courses. I'm constantly improving and expanding my projects as I learn more.
